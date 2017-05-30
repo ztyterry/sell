@@ -1,6 +1,6 @@
 # sall
 
-> a sell app
+> 慕课网学习高仿饿了么app
 
 ## Build Setup
 
